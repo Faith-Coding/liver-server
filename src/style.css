@@ -4,6 +4,10 @@ body{
 img{
     display: block;
     margin: auto;
+    width: 300px;
+    
+    
+    border: 10px 10px 20px 10px;
 }
 h1{
     color: blueviolet;
@@ -13,4 +17,10 @@ p{
     text-align: center;
     font-size: 20px;
     margin: 10px;
+}
+
+a{
+    padding: 10px;
+    display: block;
+    text-align: center;
 }
