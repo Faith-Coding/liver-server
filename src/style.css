@@ -5,6 +5,7 @@ img{
     display: block;
     margin: auto;
     width: 300px;
+    border-radius: 10px;
     
     
     border: 10px 10px 20px 10px;
@@ -20,6 +21,7 @@ p{
 }
 footer{
     text-align: center;
+    padding: 10px;
 }
 footer a{
     margin: 0 10px;
